@@ -26,7 +26,7 @@ st.write("<br>", unsafe_allow_html=True)
 st.markdown('''
     <p style="font-size: 20px;">
         From Chat Gpt Create The Dataset
-        <a href="https://drive.google.com/file/d/11wC2ZALEDL3RoaUpw6Wr43rU6s8oLvFX/view" target="_blank" style="font-size: 25px; color: blue;">Kaggle.com</a>.
+        <a href="https://drive.google.com/file/d/11wC2ZALEDL3RoaUpw6Wr43rU6s8oLvFX/view" target="_blank" style="font-size: 25px; color: blue;">student-academic-performance.csv</a>.
     </p>
 ''', unsafe_allow_html=True)
 
