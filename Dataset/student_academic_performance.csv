@@ -1,0 +1,101 @@
+Student ID,Age,Gender,Study Hours per Week,Attendance Rate,Extracurricular Activities,Parental Education Level,Final Grade
+S001,20,F,25.2,75.9,Arts,High School,2.45
+S002,20,F,17.6,85.7,Arts,nan,2.1
+S003,18,M,9.6,99.0,Sports,High School,2.22
+S004,22,F,0.3,76.1,None,High School,2.22
+S005,20,M,14.0,92.3,Sports,Bachelor,2.22
+S006,21,M,4.9,92.3,None,High School,3.5
+S007,18,M,21.7,84.7,Arts,nan,2.39
+S008,18,F,10.5,88.0,Music,Bachelor,3.59
+S009,22,M,22.6,65.2,None,Bachelor,2.5
+S010,24,M,17.0,91.4,None,High School,2.43
+S011,20,M,35.6,62.9,Sports,Bachelor,2.3
+S012,23,M,19.1,73.4,None,Bachelor,2.3
+S013,23,F,23.7,91.2,Music,Master,2.67
+S014,22,M,29.4,93.2,None,nan,3.95
+S015,21,F,39.3,56.5,Arts,Master,2.5
+S016,23,F,26.9,91.0,Arts,nan,3.78
+S017,19,M,34.6,96.8,None,nan,2.9
+S018,21,F,17.6,85.7,None,High School,2.99
+S019,23,F,8.3,70.9,Sports,Bachelor,3.59
+S020,23,M,18.6,98.4,Sports,Master,3.91
+S021,19,F,15.4,94.8,Sports,Bachelor,2.19
+S022,24,F,1.0,61.7,Arts,Bachelor,2.45
+S023,19,F,23.0,68.5,None,Bachelor,3.64
+S024,21,M,32.2,75.9,None,nan,2.12
+S025,18,F,1.2,59.5,Sports,High School,3.64
+S026,22,M,26.9,96.8,Music,High School,2.39
+S027,24,M,21.8,51.7,None,Bachelor,3.41
+S028,18,F,11.8,96.6,Arts,Bachelor,3.1
+S029,24,F,19.1,75.2,nan,Bachelor,2.3
+S030,19,M,36.0,75.3,Music,nan,2.78
+S031,22,M,8.4,62.2,None,nan,2.33
+S032,24,F,35.0,85.4,None,nan,3.24
+S033,23,F,20.5,69.4,nan,Bachelor,2.73
+S034,23,F,9.6,81.8,Sports,nan,3.38
+S035,20,M,37.1,68.5,None,Master,2.3
+S036,22,M,2.9,68.5,Arts,High School,2.13
+S037,23,M,29.5,59.5,Music,Bachelor,3.87
+S038,20,F,,88.0,nan,High School,2.1
+S039,23,M,14.9,75.3,Music,Master,2.3
+S040,19,F,,88.5,Arts,Master,3.14
+S041,24,F,35.6,65.3,None,High School,2.78
+S042,22,F,13.6,73.9,Music,Bachelor,3.29
+S043,22,F,17.6,78.8,None,High School,2.99
+S044,18,M,16.5,74.0,nan,Master,2.9
+S045,23,F,35.6,59.4,Sports,Master,3.59
+S046,20,M,1.2,73.9,Music,High School,3.36
+S047,21,F,18.6,83.3,nan,Master,2.19
+S048,23,F,20.3,91.4,nan,nan,3.04
+S049,19,F,37.1,52.1,Arts,Master,3.18
+S050,21,M,24.1,77.9,Arts,High School,2.36
+S051,22,M,11.1,99.8,Sports,Bachelor,3.0
+S052,24,M,2.9,96.8,nan,Bachelor,3.04
+S053,21,F,18.4,96.7,Music,nan,2.43
+S054,23,M,29.8,96.6,None,nan,3.78
+S055,23,F,29.4,90.0,Sports,High School,2.84
+S056,20,F,7.3,,Arts,nan,2.45
+S057,22,F,2.2,79.4,Arts,Master,2.36
+S058,20,M,29.4,93.2,Sports,High School,3.7
+S059,19,M,29.4,61.5,Sports,Bachelor,3.91
+S060,21,M,1.0,51.4,None,High School,2.84
+S061,24,M,1.2,77.9,None,nan,3.35
+S062,19,M,39.4,80.5,nan,nan,
+S063,19,M,10.7,72.5,nan,nan,2.75
+S064,22,M,19.1,62.2,Sports,Bachelor,2.72
+S065,24,M,27.5,80.5,None,Bachelor,2.41
+S066,19,F,14.0,75.0,Arts,Bachelor,2.13
+S067,20,M,11.8,59.5,Arts,Bachelor,2.75
+S068,18,M,14.9,50.5,nan,Master,3.06
+S069,18,F,20.5,97.6,Music,Bachelor,2.3
+S070,19,F,16.5,73.9,Sports,Master,3.5
+S071,22,M,13.6,77.9,nan,nan,2.05
+S072,24,M,35.6,64.5,Arts,nan,2.87
+S073,22,F,1.2,59.5,None,High School,2.41
+S074,23,F,18.5,69.2,nan,nan,3.85
+S075,21,F,16.0,96.6,Music,nan,3.14
+S076,20,F,25.8,90.0,nan,Bachelor,3.35
+S077,22,M,6.6,96.5,nan,High School,3.24
+S078,18,M,2.9,75.3,Arts,Master,3.87
+S079,23,F,6.8,61.7,Sports,Bachelor,2.1
+S080,22,M,12.3,75.2,nan,nan,3.86
+S081,23,F,13.6,83.9,Arts,Master,2.36
+S082,19,M,22.6,84.7,Arts,Master,2.07
+S083,22,F,24.2,99.1,None,nan,
+S084,20,M,29.8,75.3,Arts,Master,3.18
+S085,20,M,10.8,92.6,Arts,High School,2.43
+S086,24,M,26.5,77.9,nan,nan,3.38
+S087,18,M,16.0,95.9,Sports,Bachelor,2.5
+S088,21,F,29.4,98.4,nan,High School,3.91
+S089,24,F,18.5,96.1,None,nan,2.06
+S090,24,M,35.6,94.2,Music,Master,3.14
+S091,18,F,2.1,64.5,Arts,Bachelor,2.84
+S092,22,F,2.9,75.2,None,nan,2.58
+S093,23,M,39.7,93.2,Arts,nan,3.14
+S094,23,M,37.3,70.9,Music,Bachelor,3.04
+S095,20,F,29.8,70.9,nan,Master,3.78
+S096,20,M,17.6,53.0,Music,nan,2.45
+S097,22,F,29.4,53.0,Sports,Master,2.99
+S098,19,F,10.7,50.6,None,Bachelor,3.26
+S099,18,M,21.3,52.9,Sports,nan,3.14
+S100,18,M,,51.5,Arts,Master,3.34
